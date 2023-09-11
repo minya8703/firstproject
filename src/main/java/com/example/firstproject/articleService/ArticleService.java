@@ -1,4 +1,4 @@
-package com.example.firstproject.ArticleService;
+package com.example.firstproject.articleService;
 
 import java.util.List;
 import java.util.stream.Collectors;

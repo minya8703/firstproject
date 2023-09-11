@@ -10,6 +10,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
+import com.example.firstproject.articleService.ArticleService;
 import com.example.firstproject.entity.Article;
 
 @SpringBootTest
